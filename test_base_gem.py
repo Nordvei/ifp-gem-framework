@@ -1,3 +1,17 @@
+# IFP (Infinity Folder Project)
+#
+# Copyright (c) 2025 Andriy Baygerych. All rights reserved.
+#
+# This software is part of the IFP project, a production-grade observability
+# and orchestration platform for autonomous infrastructure monitoring using
+# brain-inspired multi-agent systems (GEM framework).
+#
+# Licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+# See LICENSE file for details.
+#
+# For commercial licensing inquiries: info@infinity-folder.no
+#
+# Patent pending. Additional intellectual property rights reserved.
 """
 Unit tests for Base GEM Class
 
