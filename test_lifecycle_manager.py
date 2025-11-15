@@ -1,3 +1,10 @@
+# ============================================================================
+# Intelligent Framework Platform (IFP)
+# ============================================================================
+# Copyright © 2025 BAYGERYCH IFP NORGE (Org. 936546730)
+# All Rights Reserved - Patent Filed: NO 20251414 (November 15, 2025)
+# ============================================================================
+
 # IFP (Infinity Folder Project)
 #
 # Copyright (c) 2025 Andriy Baygerych. All rights reserved.
